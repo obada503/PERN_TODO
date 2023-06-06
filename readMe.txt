@@ -1,4 +1,5 @@
 Files:
+
 app.js: This file serves as the main entry point for the client-side code of the application. It is responsible for rendering the user interface and managing the interaction with the server. The client-side code runs on localhost:3000.
 
 index.js: This file contains the server-side code for the application. It is responsible for handling HTTP requests and interacting with the database. The server-side code runs on localhost:5000.
